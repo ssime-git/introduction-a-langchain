@@ -1,0 +1,8 @@
+streamlit 
+OpenAI
+langchain
+langchain_openai
+langchain_core
+wikipedia
+youtube_search
+duckduckgo-search

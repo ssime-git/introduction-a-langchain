@@ -1,0 +1,14 @@
+langchain[openai, docarray]
+langchain-openai
+pandas
+transformers
+python-dotenv
+huggingface_hub
+ipywidgets
+tiktoken
+# for LLMMathChain
+numexpr
+# for wikipedia
+wikipedia
+youtube_search
+duckduckgo-search
